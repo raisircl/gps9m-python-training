@@ -1,0 +1,17 @@
+StudentID,StudentName,Gender,Course,Attendance,StudyHours,PreviousMarks,AssignmentScore,FinalMarks,Result
+1,Rahul,Male,BCA,85,4,70,18,78,Pass
+2,Priya,Female,BCA,92,5,82,19,88,Pass
+3,Aman,Male,BCA,60,2,45,12,49,Fail
+4,Neha,Female,BCA,75,3,60,15,66,Pass
+5,Rohit,Male,BCA,55,1,40,10,42,Fail
+6,Anil,Male,BCA,85,4,70,18,78,Pass
+7,Vijay,Male,BCA,92,5,82,19,88,Pass
+8,Yogesh,Male,BCA,60,2,45,12,49,Fail
+9,Sandeep,Male,BCA,75,3,60,15,66,Pass
+10,Harjeet,Male,BCA,55,1,40,10,42,Fail
+11,Tarun,Male,BCA,85,4,70,18,78,Pass
+12,Nikhil,Male,BCA,92,5,82,19,88,Pass
+13,Lalit,Male,BCA,60,2,45,12,49,Fail
+14,Tanya,Female,BCA,75,3,60,15,66,Pass
+15,Ankush,Male,BCA,55,1,40,10,42,Fail
+
