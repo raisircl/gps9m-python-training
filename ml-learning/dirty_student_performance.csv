@@ -1,0 +1,31 @@
+studentid,studentname,gender,attendance,studyhours,finalmarks,result
+1,rahul,male,85,4,78,pass
+2,priya,female,,5,88,pass
+3,aman,male,60,2,,fail
+3,aman,male,60,2,,fail
+4,neha,female,130,3,66,pass
+5,rohit,male,55,1,-5,fail
+6,simran,female,88,4,82,pass
+7,Amit Kumar,MALE,90,6,92,PASS
+8,sneha sharma,female,75,abc,70,pass
+9,vikram,m,40,1,30,fail
+10,Kriti,female,92,5,85,pass
+11,raj,male,80,3,450,pass
+12,Ananya,f,95,6,94,pass
+13,Suresh,male,15,0,12,fail
+14,pooja,female,85%,4,76,pass
+15,Deepak,male,70,2,55,PASS
+16,Neha,female,65,3,58,pass
+17,Ajay,male,,1,25,fail
+18,Jyoti,female,98,7,99,pass
+19,Rahul,male,85,4,78,pass
+20,Megha,female,50,2,40,fail
+21,Arjun,male,110,5,80,pass
+22,Swati,female,78,,72,pass
+23,Manish,male,na,3,50,fail
+24,Ritu,female,88,4,84,pass
+25,Gaurav,male,60,2,-10,fail
+26,vishaal,male,82,4,79,pass
+27,Divya,female,90,5,88,pass
+28,Sanjay,male,73,3,65,pass
+29,Karan,male,zero,0,15,fail
